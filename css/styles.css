@@ -1,5 +1,23 @@
-top {
-  font-style: bold;
+.top {
   color: blue;
+  font-weight: bolder;
+  background-color: teal;
+}
+.volley {
+  background-color: yellow
+}
+h1 {
+  font-family: cursive;
+  font-size: 40;
+  text-align: center;
+}
+.jumbotron {
+  text-align: center;
+}
+p.main {
+  text-align: center;
 
+}
+.center {
+  margin-left: 50%
 }
