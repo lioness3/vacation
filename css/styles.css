@@ -21,3 +21,12 @@ p.main {
 .center {
   margin-left: 50%
 }
+body.pink {
+  background-color:pink;
+  color:lightyellow;
+}
+
+.blue {
+  background-color:blue;
+  color:green;
+}
